@@ -1,0 +1,1 @@
+print("Arbol pracial minimo")
