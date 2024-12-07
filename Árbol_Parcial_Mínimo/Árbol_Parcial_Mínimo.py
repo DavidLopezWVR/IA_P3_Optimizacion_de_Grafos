@@ -1,1 +1,0 @@
-print("Arbol pracial minimo")
